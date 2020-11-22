@@ -7,3 +7,8 @@ This is ongoing project which uses python's webscrapping library scrapy to scrap
 * Model building
 * Model Deployment
 * Model Deployment in AWS
+
+## Progress of Project
+
+* Completed python scrapy script
+* Data collection in progress until the end of Novemeber'2020
