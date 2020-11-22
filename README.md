@@ -1,1 +1,1 @@
-# Web-scrapping real state website KV.EE
+# Data Analysis of real state prices in Tallinn including data collection through webscarpping
