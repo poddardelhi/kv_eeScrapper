@@ -12,3 +12,9 @@ This is ongoing project which uses python's webscrapping library scrapy to scrap
 
 * Completed python scrapy script
 * Data collection in progress until the end of Novemeber'2020
+
+
+### Dependencies
+
+* Python 3.7
+* Python scrapy library dependencies
