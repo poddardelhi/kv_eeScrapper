@@ -16,7 +16,8 @@ This is ongoing project which uses python's webscrapping library scrapy to scrap
 ## How to run the scrapy
 * Navigate to kv_scrapper
 * Run  `scrapy kv_spider -o kv.csv`
- ![Image of Output] (https://github.com/poddardelhi/kv_eeScrapper/blob/master/output_csv.png)
+* Output of CSV is as below
+ ![](output_csv.png)
 
 ### Dependencies
 
